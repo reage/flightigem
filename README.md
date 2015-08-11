@@ -1,1 +1,1 @@
-# flightigem
+# Flight iGEM
